@@ -1,0 +1,16 @@
+{
+  "name": "stanley_cubique",
+  "version": "1.0.0",
+  "description": "discord bot to control promenade server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@scaleway/sdk": "^2.31.0",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
